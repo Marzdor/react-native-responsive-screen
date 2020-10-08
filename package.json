@@ -3,6 +3,7 @@
   "version": "1.4.1",
   "description": "Make React Native views responsive for all devices with the use of 2 simple methods.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
